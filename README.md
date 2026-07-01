@@ -1,7 +1,7 @@
 # Hey there! I'm Kaustubh (Frenzy-codes) 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=E63946&center=true&vCenter=true&width=450&lines=Backend+Developer;Data+Analyst+%26+ML+Enthusiast;Full-Stack+Web+Developer;Building+Data-Driven+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=E63946&center=true&vCenter=true&width=450&lines=Backend+Developer;Data+Analyst+%26+ML+Enthusiast;Building+Data-Driven+Apps" alt="Typing SVG" />
 </p>
 
 ---
